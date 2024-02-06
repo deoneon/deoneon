@@ -22,7 +22,7 @@
 <!-- Problem Solving (start) -->
 ### ⚔️ Problem Solving
  <div width=100% align=left>
-   <a href="https://solved.ac/deoneon"><img width=32% src="http://mazassumnida.wtf/api/generate_badge?boj=deoneon" /></a>
+   <a href="https://solved.ac/deoneon"><img width=32% src="http://mazassumnida.wtf/api/generate_badge?boj=modxpow" /></a>
    <img width=32% src="https://leetcard.jacoblin.cool/deoneon?theme=nord&font=Noto%20Sans%20Gothic&ext=contest" />
  </div>
 <!-- Problem Solving (end) -->
