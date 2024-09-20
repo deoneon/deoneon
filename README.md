@@ -15,7 +15,7 @@
 ### ⚔️ Problem Solving
  <div width=100% align=left>
    <a href="https://solved.ac/deoneon"><img width=32% src="http://mazassumnida.wtf/api/generate_badge?boj=modxpow" /></a>
-   <img width=32% src="https://leetcard.jacoblin.cool/modxpow?theme=nord&font=Noto%20Sans%20Gothic&ext=contest" />
+   <!-- <img width=32% src="https://leetcard.jacoblin.cool/modxpow?theme=nord&font=Noto%20Sans%20Gothic&ext=contest" /> -->
  </div>
 <!-- Problem Solving (end) -->
 
